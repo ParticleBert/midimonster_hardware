@@ -1,0 +1,17 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/Programme/EAGLE-4.09r2/projects/midimonster/midimonster.sch at 31.07.2002 02:02:54 
+
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin MIDI0 PE
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin MIDI0 PE
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin MIDI1 PE
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin MIDI1 PE
+WARNING: Sheet 1/1, Net N$6: wire overlaps pin at (3.1 0.9)
+WARNING: Sheet 1/1, Net N$8: wire overlaps pin at (2.1 0.9)
+WARNING: Sheet 1/1, Net N$3: wire overlaps pin at (5 0.9)
+WARNING: Sheet 1/1, Net N$7: wire overlaps pin at (4 0.9)
+
+Board and schematic are consistent
+
+    4 errors
+    4 warnings
